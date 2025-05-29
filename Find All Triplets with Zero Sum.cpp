@@ -31,9 +31,6 @@ vector<vector<int>> findTriplets(vector<int> &arr) {
 }
 
 
-
-    
-
 int main(){
 
     vector<int> arr = {0, -1, 2, -3, 1};
